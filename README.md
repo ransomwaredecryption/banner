@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://demolab.com" alt="Duo Name Animation" />
+  <img src="https://postimg.cc" width="380" alt="Duo Name Animation">
 </p>
 
 <p align="center">
