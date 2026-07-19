@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  <code>catboy icarus + fareit</code>
+  <code>catboy icarus + gloski</code>
 </h2>
 
 <p align="center">
